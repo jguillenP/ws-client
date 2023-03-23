@@ -30,4 +30,4 @@ btn.addEventListener('click', () => {
 
   connectToServer(token);
 });
-connectToServerWithoutToken();
+// connectToServerWithoutToken();
